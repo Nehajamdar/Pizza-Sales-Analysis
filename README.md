@@ -20,6 +20,10 @@ In this project, I have utilize SQL query to solve questions that were related t
 **Sales Patterns:**
 - Determine peak sales times and popular days for orders.
 - Analyze the distribution of orders by hour of the day.
+-   
+**Category and Ingredient Analysis:**
+- Join tables to find the total quantity of each pizza category ordered.
+- Examine customer preferences in terms of pizza ingredients.
 
 **Revenue Contribution:**
 - Calculate the percentage contribution of each pizza type to total revenue.
