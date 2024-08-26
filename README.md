@@ -22,5 +22,5 @@ In this project, I have utilize SQL query to solve questions that were related t
 - Analyze the distribution of orders by hour of the day.
 
 **Revenue Contribution:**
-Calculate the percentage contribution of each pizza type to total revenue.
-Identify the top revenue-generating pizzas and categories.
+- Calculate the percentage contribution of each pizza type to total revenue.
+- Identify the top revenue-generating pizzas and categories.
