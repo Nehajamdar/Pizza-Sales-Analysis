@@ -11,7 +11,7 @@ In this project, I have utilize SQL query to solve questions that were related t
 
 **Popular Pizzas and Sizes:**
 - Identify the most commonly ordered pizza types and sizes.
-- List the top 5 most ordered pizzas along with their quantities.
+- List the top 3 most ordered pizzas along with their quantities.
 
 **Pricing Insights:**
 - Find the highest-priced pizza.
